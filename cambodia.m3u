@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 http://gg.gg/8zy29
+#EXTINF:-1 tvg-chno="34" tvg-id="Khmer TV" tvg-country="KH" tvg-language="" tvg-logo="https://ia800600.us.archive.org/32/items/dog_gear_live_Logo/khmertv.jpg" group-title="Cambodia",Khmer TV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="Bayon TV" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/logo_bayontv.gif" group-title="Cambodia",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724364994&mtvhash=g5pmBBHTfD8U6JJApFB39gYASiUirAys-Kw_RuQPpKs=
+#EXTINF:-1 tvg-chno="37" tvg-id="BTV" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/logo_btv.gif" group-title="Cambodia",BTV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365492&mtvhash=pIAgu61LlnGZnoK6Y5KUNDx7KhNxR7wC4M-XCXNTLsk=
+#EXTINF:-1 tvg-chno="39" tvg-id="TV5 Cambodia" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/logo_tv5.gif" group-title="Cambodia",TV5 Cambodia
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365383&mtvhash=JfEUwxhOTnPv_yJfiaF6L1CnYg6QaENQrDwx9qktN4c=
+#EXTINF:-1 tvg-chno="40" tvg-id="Apsara TV" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/logo_apsaratv.gif" group-title="Cambodia",Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365548&mtvhash=QNG3cmeo731XO8uj1ZkgaoNTEzBRTbJ7IT0iB_2db5U=
+#EXTINF:-1 tvg-chno="41" tvg-id="PNN" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" group-title="Cambodia",PNN
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365576&mtvhash=fm1B35jgFRNpK2NI5ZMmEIHJKTTeR_i4PRur-KsRpjk=
+#EXTINF:-1 tvg-chno="42" tvg-id="SEATV" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/logo_seatv.gif" group-title="Cambodia",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365525&mtvhash=YmU-yuIBI125BdMoGyyqtf7S5xQFMghm3xvJe6XNE-g=
+#EXTINF:-1 tvg-chno="43" tvg-id="TV9" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/KGbDcg1.jpg" group-title="Cambodia",CTV9
+http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365643&mtvhash=bj2z6itxixeYyYX6Af0Bc-REYmhHRPtGRfuxQrIerVg=
+#EXTINF:-1 tvg-chno="44" tvg-id="TVK" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/logo_tvk.gif" group-title="Cambodia",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365345&mtvhash=vs02pcrTaU1pXni3gCrzERMLpvoOxJ9WCLhLkvPygkc=
+#EXTINF:-1 tvg-chno="45" tvg-id="WIKI TV" tvg-country="KH" tvg-language="" tvg-logo="http://mekongtv.net/Images/channel/wikitv.gif" group-title="Cambodia",WIKI TV
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1724365613&mtvhash=8VPP-scUD8Q6ID5jquCWd1GLSAdiQ8dtFDtqHo8Am24=
